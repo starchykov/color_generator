@@ -1,16 +1,27 @@
-# color_generator
+# Color generator
+[![style: solid](https://img.shields.io/badge/style-solid-orange)](https://pub.dev/packages/solid_lints)
 
-A new Flutter project.
+This repository contains a Flutter project for Solid Software as a test task. It is a simple application that generates a random color on the screen every time the user taps anywhere on the screen. The app is built using the Feature Driven Design (FDD) architecture pattern and utilizes the BLoC package for state management.
+
+## Features
+
+- **Generate Random Color**: Tapping the screen generates a completely random color.
+- **Feature Driven Design**: Organized codebase with clear feature separation for scalability.
+- **State Management**: Uses BLoC to handle the app state changes in a predictable way.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+To get started with this project, please follow the instructions below.
 
-A few resources to get you started if this is your first Flutter project:
+### Prerequisites
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Flutter installed on your machine (To check if Flutter is installed on your machine, run `flutter doctor` in the terminal).
+- An IDE (Integrated Development Environment) like Android Studio, VSCode, etc.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Installation
+
+1. Clone the repository to your laptop.
+2. Navigate to the cloned repository.
+3. Fetch the project dependencies using `flutter pub get` command.
+4. Run the app on a connected device or an emulator.
+
