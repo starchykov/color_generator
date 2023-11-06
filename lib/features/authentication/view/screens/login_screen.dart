@@ -40,7 +40,7 @@ class LoginScreen extends StatelessWidget {
                     style: TextStyle(color: CupertinoColors.white),
                   ),
                 ),
-                // const Warning()
+                gapH16,
               ],
             ),
           ),
