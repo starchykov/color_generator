@@ -1,3 +1,8 @@
 {
-  "helloWorld": "Привіт!"
+  "helloThere": "Привіт",
+  "language": "{language, select, en{Англійська} uk{Українська} other{Інша}}",
+  "en": "Англійська",
+  "darkMode": "Темна тема",
+  "settings": "Налаштування",
+  "colors": "Кольори"
 }
