@@ -1,7 +1,7 @@
 # Color generator
 [![style: solid](https://img.shields.io/badge/style-solid-orange)](https://pub.dev/packages/solid_lints)
 
-This repository contains a Flutter project for Solid Software as a test task. It is a simple application that generates a random color on the screen every time the user taps anywhere on the screen. The app is built using the Feature Driven Design (FDD) architecture pattern and utilizes the BLoC package for state management.
+This repository contains a Flutter project. It is a simple application that generates a random color on the screen every time the user taps anywhere on the screen. The app is built using the Feature Driven Design (FDD) architecture pattern and utilizes the BLoC package for state management.
 
 <img alt="demo.gif" src="https://github.com/starchykov/color_generator/blob/main/assets/images/demo.gif" width="400"/>
 
